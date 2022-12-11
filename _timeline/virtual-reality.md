@@ -12,5 +12,7 @@ events:
   - vpl-data-suit
   - power-glove
   - kinect
+  - the-thrill-of-the-fight
+  - valve-index
 ---
 
