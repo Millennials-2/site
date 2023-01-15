@@ -13,4 +13,4 @@ tags:
   - Oculus
 ---
 
-{% include palmer-luckey.md %}
+{% include cs-palmer-luckey.md %}
